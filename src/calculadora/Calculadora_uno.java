@@ -168,7 +168,7 @@ public class Calculadora_uno extends javax.swing.JFrame {
             }
         });
 
-        btn_igual.setBackground(new java.awt.Color(51, 255, 204));
+        btn_igual.setBackground(new java.awt.Color(255, 255, 204));
         btn_igual.setText("=");
         btn_igual.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
