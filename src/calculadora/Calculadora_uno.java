@@ -6,7 +6,7 @@
 package calculadora;
 /**
  *
- * @author soloj
+ * @author soloJ
  */
 public class Calculadora_uno extends javax.swing.JFrame {
     
